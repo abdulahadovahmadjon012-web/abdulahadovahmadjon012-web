@@ -32,3 +32,5 @@ https://github.com/abdulahadovahmadjon012-web
 
 
 
+Men GitHub orqali loyihalarimni boshqarishni o‘rganyapman.
+
