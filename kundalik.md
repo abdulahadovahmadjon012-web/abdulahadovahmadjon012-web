@@ -2,3 +2,5 @@ Bugun Git va GitHub o'rgandim.Bugun Git va GitHub bo'yicha amaliyot bajardim.Bug
 
 Bugun Git va GitHub bo'yicha amaliyot bajardim.Bugun Python va dasturlashni o'rgandim.
 
+Bugun main branchida yangi o'zgarish kiritdim.
+
